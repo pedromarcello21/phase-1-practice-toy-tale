@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
+      "image": "https://i.pinimg.com/736x/70/17/77/7017770fe6abc1d253e8cd88fb577f6c.jpg",
       "likes": 1
     },
     {
@@ -46,7 +46,19 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 1
+      "likes": 0
+    },
+    {
+      "id": "fa02",
+      "name": "RC",
+      "image": "https://scene7.samsclub.com/is/image/samsclub/0006444264013_A",
+      "likes": 0
+    },
+    {
+      "id": "f462",
+      "name": "Lenny",
+      "image": "https://i.seadn.io/gae/Zg_ncG82YCFNiKeAhIi50t1uZqOtWw8Xjs-9rH4TCnzVl156KaTMotBlfn3AkR-MsTfru49MICnwLwZEfhFgvmnZo3QgSJBDxO4gzQ?auto=format&dpr=1&w=1400&fr=1",
+      "likes": 0
     }
   ]
 }
